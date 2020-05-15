@@ -1,0 +1,121 @@
+/* --------------------------------
+Open-Sans Font Style
+Author: Atul Meshram
+Date: 15-MAY-2020
+-------------------------------- */
+
+/* Font-Assets-Reference - START */
+@font-face {
+  src: url('./OpenSans-Regular.ttf') format('truetype');
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+}
+
+@font-face {
+  src: url('./OpenSans-Italic.ttf') format('truetype');
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-display: auto;
+}
+
+@font-face {
+  src: url('./OpenSans-SemiBold.ttf') format('truetype');
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-display: auto;
+}
+
+@font-face {
+  src: url('./OpenSans-SemiBoldItalic.ttf') format('truetype');
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-weight: 600;
+  font-display: auto;
+}
+
+@font-face {
+  src: url('./OpenSans-Bold.ttf') format('truetype');
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-display: auto;
+}
+
+@font-face {
+  src: url('./OpenSans-BoldItalic.ttf') format('truetype');
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  font-display: auto;
+}
+/* Font-Assets-Reference - END */
+
+/* Font-Styles - START */
+.font-regular {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.font-regular-italic {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.font-semi-bold {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.font-semi-bold-italic {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.font-bold {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.font-bold-italic {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-18 {
+  font-size: 18px;
+}
+
+.font-dark-1 {
+  color: #111111;
+}
+
+.font-dark-2 {
+  color: #333333;
+}
+
+.font-dark-3 {
+  color: #555555;
+}
+/* Font-Styles - END */
